@@ -4,3 +4,8 @@ The dashboard aimed to offer insights into how different regions were affected o
 
 Data Source(s):
 The data was sourced from several databases, including publicly available COVID-19 datasets. After collecting the data, I edited and cleaned it using Power BI's Query Editor to ensure consistency and accuracy before visualizing it.
+
+Tools & Technologies:
+Power BI's Query Editor for data cleaning and editing.
+Mathematical methods applied to analyze and manipulate data effectively.
+Power BI for creating interactive visualizations and dashboards.
